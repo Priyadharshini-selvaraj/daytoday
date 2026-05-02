@@ -1,0 +1,182 @@
+🧩 1. Divisibility Rules
+Check if a number is divisible by 2, 3, 5, 9, 11 etc.
+Used to simplify big problems quickly
+🔢 2. Unit Digit (Last Digit Problems)
+Find last digit of powers
+Example:
+7^103 → last digit?
+
+👉 Uses cyclic patterns (very important)
+
+🔁 3. Remainder Theorem
+Find remainder without full division
+Especially for large numbers
+
+Example:
+
+(7^100) ÷ 6 → remainder?
+⚡ 4. Cyclicity / Pattern Recognition ⭐⭐⭐
+
+This is the bridge topic (very important)
+
+Patterns repeat in powers
+Used in:
+Unit digit
+Remainder
+
+Example:
+
+2^1 = 2  
+2^2 = 4  
+2^3 = 8  
+2^4 = 6  
+(repeats)
+
+👉 Companies LOVE this
+
+🧮 5. Modular Arithmetic (Core Concept) ⭐⭐⭐
+
+This is the real engine behind everything
+
+a mod n concept
+Breaking big problems into small ones
+
+Example:
+
+(1234 + 5678) mod 9
+
+👉 Used everywhere:
+
+Remainders
+Divisibility
+Coding
+🔄 6. Euler’s Theorem / Fermat Concept (Advanced ⭐⭐)
+
+Used for very large powers
+
+Example:
+
+Find remainder of 3^1000 ÷ 7
+
+👉 Shortcut for big exponent problems
+
+➗ 7. Factors & Multiples
+Number of factors
+Prime factorization
+
+Example:
+
+How many factors does 360 have?
+🧱 8. HCF & LCM ⭐⭐⭐
+
+Very frequently asked
+
+Relation between HCF & LCM
+Used in word problems
+🔍 9. Trailing Zeros ⭐⭐⭐
+
+Classic question 🔥
+
+Example:
+
+Find trailing zeros in 100!
+
+👉 Based on number of 5s
+
+🔢 10. Digital Root / Sum of Digits
+Used in divisibility shortcuts
+
+Example:
+
+Check divisibility by 9
+
+
+🧩 Basic Level
+Is 45678 divisible by 2, 3, and 9?
+Check whether 12345 is divisible by 5 and 11.
+Is 987654 divisible by 6?
+Determine if 1001 is divisible by 7.
+Is 729 divisible by 9 and 3?
+⚡ Moderate Level
+Find the smallest number to be added to 2356 to make it divisible by 9.
+Find the smallest number to be subtracted from 7812 to make it divisible by 11.
+Is 86420 divisible by 4 and 8?
+Find whether 99999 is divisible by 3, 9, and 11.
+Check if 1234321 is divisible by 11.
+🔥 Application Level
+Find the least number to be added to 6789 to make it divisible by 6.
+What must be added to 1000 to make it divisible by 7?
+Determine whether 456456 is divisible by 11.
+Find the greatest number to be subtracted from 54321 so that it is divisible by 9.
+Check if 888888 is divisible by 3, 6, and 9.
+🧠 Tricky Level (Companies like these)
+Find the value of x in 54x36 so that it is divisible by 9.
+Find the value of x in 7x2 so that it is divisible by 11.
+What should replace x in 123x5 to make it divisible by 3 and 9?
+Find the digit x such that 45x2 is divisible by 4.
+Determine the smallest digit x such that 9x72 is divisible by 8.
+
+
+Unit digit 
+20 Practice Questions – Unit Digit
+🧩 Basic Level (Get the cycle idea)
+Find the unit digit of 2¹⁰
+Find the unit digit of 3⁷
+Find the unit digit of 7⁵
+Find the unit digit of 9⁸
+Find the unit digit of 4¹³
+⚡ Moderate Level (Cycle + remainder)
+Find the unit digit of 2¹⁰¹
+Find the unit digit of 3⁵⁰
+Find the unit digit of 8⁶³
+Find the unit digit of 7⁴⁴
+Find the unit digit of 6¹²³
+
+Application Level (Combination)
+Find the unit digit of 2¹⁰ + 3¹⁰
+Find the unit digit of 7³ × 3⁴
+Find the unit digit of 8⁵ + 9⁷
+Find the unit digit of 4¹² × 2⁷
+Find the unit digit of 3²⁰ + 7¹⁵
+🧠 Tricky Level (Companies LOVE these)
+Find the unit digit of (2³)⁵
+Find the unit digit of 7¹⁰⁰ + 8⁵⁰ + 9²⁵
+Find the unit digit of 3³³ × 2²²
+Find the unit digit of (9²)⁵
+Find the unit digit of 5⁹⁹ × 2¹⁰¹
+
+
+20 Practice Questions – Remainder Theorem
+🧩 Basic Level
+Find the remainder when 27 is divided by 5
+Find the remainder when 58 is divided by 7
+Find the remainder when 123 is divided by 9
+Find the remainder when 456 is divided by 11
+Find the remainder when 999 is divided by 8
+⚡ Moderate Level
+Find the remainder when 2¹⁰ is divided by 3
+Find the remainder when 3⁷ is divided by 5
+Find the remainder when 5⁶ is divided by 4
+Find the remainder when 7⁵ is divided by 6
+Find the remainder when 9⁴ is divided by 7
+
+Application Level
+Find the remainder when 7¹⁰⁰ is divided by 6
+Find the remainder when 3⁵⁰ is divided by 4
+Find the remainder when 2⁸⁰ is divided by 5
+Find the remainder when 11⁵ is divided by 3
+Find the remainder when 8⁷ is divided by 9
+🧠 Tricky Level (Placement Style)
+Find the remainder when (2¹⁰ + 3⁵) is divided by 7
+Find the remainder when (5⁶ + 7⁴) is divided by 6
+Find the remainder when (9⁸ − 4⁵) is divided by 5
+Find the remainder when (3³³ × 2²²) is divided by 7
+Find the remainder when (7⁵⁰ + 8²⁵) is divided by 9
+
+Unit digit of 3¹⁰⁰
+Unit digit of 8⁵⁷
+Unit digit of 9⁹⁹
+Unit digit of 7⁴⁵
+Unit digit of 4³¹
+
+
