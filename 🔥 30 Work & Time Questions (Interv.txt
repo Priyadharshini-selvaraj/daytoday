@@ -1,0 +1,34 @@
+🔥 30 Work & Time Questions (Interview Style)
+🟢 Basic Level (1–10)
+A can complete a work in 10 days. How many days will A take to complete half of the work?
+A can finish a job in 12 days and B can finish it in 6 days. How long will they take together?
+A does a work in 8 days. After working for 2 days, how much work is left?
+If A completes 1/5 of work in a day, how many days are needed to finish the work?
+A can do a work in 15 days. B is twice as efficient as A. How long will B take?
+A and B together finish a work in 10 days. A alone can do it in 15 days. How long will B take?
+A can do a job in 20 days. B can do it in 30 days. What fraction of work do they complete in 1 day together?
+A can complete 3/4 of work in 6 days. How long for full work?
+A can do a work in 18 days. What part of work does A complete in 3 days?
+A completes 1/6 of work in a day. How many days for the remaining work after 2 days?
+🟡 Moderate Level (11–20)
+A and B together can complete a work in 8 days. B alone takes 24 days. How long will A take?
+A can do a work in 10 days. B can do it in 15 days. They work together for 2 days, then A leaves. How long will B take to finish remaining work?
+A does a work in 12 days, B in 16 days. They start together but A leaves after 4 days. How long will B take to finish?
+A and B together can do a work in 6 days. If A is twice as efficient as B, find time taken by A alone.
+A can do a work in 9 days. B can do it in 18 days. C can do it in 6 days. How long will all three take together?
+A completes a work in 20 days. B joins after 5 days and together they finish in 10 days total. Find B’s efficiency (days alone).
+A and B can do a work in 12 days. B and C in 15 days. A and C in 20 days. How long will all three together take?
+A does a work in 10 days. B is 50% more efficient than A. How long will B take?
+A and B together do 1/2 work in 4 days. How long for full work?
+A can do a work in 25 days. B is 5 times as efficient as A. How long will both together take?
+🔴 Advanced Level (21–30)
+A can do a work in 12 days, B in 18 days. They work alternately starting with A. How many days to complete work?
+A, B, and C can complete a work in 6 days. A leaves after 2 days, B leaves 2 days before completion. How long does C work?
+A can do a work in 15 days. B is 3 times as efficient. They work alternately starting with A. Find total time.
+A and B together complete a work in 10 days. After 5 days, A leaves and B alone finishes in 10 more days. Find A’s time alone.
+A can do a work in 30 days. B in 20 days. They work together but every 3rd day B rests. How long to finish?
+A can do a work in 12 days, B in 16 days. They work together but A rests every 4th day. Find total time.
+A and B can do a work in 8 days. If A works twice as fast as B, find their individual times.
+A, B, and C can do a work in 10 days. If A alone takes 30 days and B alone takes 20 days, find C’s time.
+A can do a work in 14 days. B can do it in 21 days. They work together for 3 days, then stop. What fraction of work is left?
+A and B together can complete a work in 12 days. If A works twice as fast as B and both work for 3 days, what fraction remains?
