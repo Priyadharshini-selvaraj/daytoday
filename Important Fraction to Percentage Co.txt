@@ -1,0 +1,15 @@
+ Important Fraction to Percentage Conversions
+
+These are gold for aptitude speed.
+
+Fraction	Percentage
+1/2	50%
+1/3	33.33%
+1/4	25%
+1/5	20%
+1/6	16.66%
+1/8	12.5%
+1/10	10%
+2/5	40%
+3/4	75%
+4/5	80%
